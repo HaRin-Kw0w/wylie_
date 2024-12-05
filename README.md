@@ -13,7 +13,7 @@ React, Redux, JavaScript GSAP, Mobile Navigation, AJAX, HOOK, SwiperJS 등
 * GSAP을 활용한 스크롤 애니메이션 및 UI 요소 인터랙션 구현
 * 정적 JSON 데이터를 로딩하여 상품 페이지 동적 렌더링
 * 컴포넌트를 활용한 지역번호 동적 렌더링
-* React, Redux, GSAP (GreenSock Animation Platform) 등 을 활용하여 스크롤 애니메이션 및 다양한 UI구현
+* React, Redux, GSAP (GreenSock Animation Platform) 등을 활용하여 스크롤 애니메이션 및 다양한 UI구현
 * 모바일 메뉴 및 페이지 내 네비게이션 구현
 * 특정 페이지 위치에 도달 시 트리거되는 애니메이션 효과 적용
 
